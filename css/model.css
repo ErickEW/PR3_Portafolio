@@ -1,0 +1,11 @@
+.images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    }
+
+    .text{
+        grid-column: 2;
+        text-align: center;
+    }
